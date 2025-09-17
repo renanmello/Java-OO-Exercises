@@ -67,7 +67,7 @@ Implementação do padrão Strategy para cálculo de frete com diferentes estrat
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/seu-usuario/java-oo-exercises.git
+   git clone https://github.com/renanmello/Java-OO-Exercises
    ```
 2. Abra o projeto em sua IDE favorita (por exemplo, IntelliJ IDEA ou Eclipse).
   
